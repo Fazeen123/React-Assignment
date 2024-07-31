@@ -126,9 +126,8 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-top: 20px;
+    padding-top: 10px;
     background-color: rgb(249, 145, 8);
-    border-radius: 0px 0px 10px 10px;
 }
 .hide-map-containor{
     display: none;
@@ -204,4 +203,12 @@
 .heading-bg-strawberry{
     background-color: rgb(249, 148, 165);
     border: 1px solid rgb(249, 148, 165);
+}
+.heading-hs-content{
+    font-family: 'poppins';
+    font-size: 28px;
+    font-weight: 500;
+    color: white;
+    opacity: 0.7;
+    margin: 20px;
 }

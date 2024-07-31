@@ -1,5 +1,10 @@
 import React from 'react'
 import './Footer.css'
+import {FaFacebook} from 'react-icons/fa'
+import {FaTwitter} from 'react-icons/fa'
+import {FaInstagram} from 'react-icons/fa'
+import {FaSnapchat} from 'react-icons/fa'
+import {FaEnvelope} from 'react-icons/fa'
 
 const Footer = () => {
   return (
@@ -31,11 +36,11 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className='social-connections'>
-                    <img src="/Images/email.png" alt="email" className='social-image' />
-                    <img src="/Images/email.png" alt="email" className='social-image' />
-                    <img src="/Images/email.png" alt="email" className='social-image' />
-                    <img src="/Images/email.png" alt="email" className='social-image' />
-                    <img src="/Images/email.png" alt="email" className='social-image' />
+                    <FaEnvelope className='social-icons'/>
+                    <FaTwitter className='social-icons'/>
+                    <FaFacebook className='social-icons'/>
+                    <FaInstagram className='social-icons'/>
+                    <FaSnapchat className='social-icons'/>
                 </div>
             </div>
             <div className='footer-content-3'>

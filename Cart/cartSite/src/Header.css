@@ -6,7 +6,7 @@
 }
 
 .Header-containor{
-    background-color: whitesmoke;
+    background-color: rgb(251, 237, 218);
     width: 100vw;
     display: flex;
     justify-content: space-between;

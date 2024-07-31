@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react'
 import './SecondHome.css'
-import jucecup from '/Images/juice.png'
 import { secondContent } from './homeData'
 
 

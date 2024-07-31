@@ -28,6 +28,7 @@ const HomeStructure = () => {
       <div className='structure-containor'>
         {
             images&&images.length ? images.map((item,index)=> <div key={index} className={currentSlide==index ? currentSlide==0 ?"map-containor bg-mango":currentSlide==1?"map-containor bg-orange" : currentSlide==2?" map-containor bg-pineApple":currentSlide==3?"map-containor bg-watermellon":currentSlide==4?"map-containor bg-banana":"map-containor bg-strawberry": "map-containor hide-map-containor"} >
+                <div className='heading-hs-content'>Special of Fruitiee</div>
                 <div className='left-arrow-containor'><FaAngleDoubleLeft className='left-arrow' onClick={handleLeftArrow}/></div>
         <div className='hs-image-containor'>
             <div className='image-tag-containor'><img src={item.url} alt={item.name} className='hs-image'/></div>
