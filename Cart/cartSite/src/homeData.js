@@ -59,3 +59,46 @@ export const datas = [
             "describe":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis eos facilis libero odit amet a velit repellat quod ratione."
         }
     ]
+
+    export const cutomerReview =[
+        {
+            "id":1,
+            "name":"Kowshalya",
+            "star":"stars",
+            "review":"Frutiee is an amazing place to buy a healthy foods. There are they have so many fruit flavoured drinks and cakes. That  ia so delicious. Even their online services are so good."
+        },{
+            "id":2,
+            "name":"Inshaf",
+            "star":"stars",
+            "review":"Frutiee is an amazing place to buy a healthy foods. There are they have so many fruit flavoured drinks and cakes. That  ia so delicious. Even their online services are so good."
+        },{
+            "id":3,
+            "name":"Chandhana",
+            "star":"stars",
+            "review":"Frutiee is an amazing place to buy a healthy foods. There are they have so many fruit flavoured drinks and cakes. That  ia so delicious. Even their online services are so good."
+        },{
+            "id":4,
+            "name":"Husni Zakee",
+            "star":"stars",
+            "review":"Frutiee is an amazing place to buy a healthy foods. There are they have so many fruit flavoured drinks and cakes. That  ia so delicious. Even their online services are so good."
+        },{
+            "id":5,
+            "name":"Shafiya",
+            "star":"stars",
+            "review":"Frutiee is an amazing place to buy a healthy foods. There are they have so many fruit flavoured drinks and cakes. That  ia so delicious. Even their online services are so good."
+        },{
+            "id":6,
+            "name":"Shashana",
+            "star":"stars",
+            "review":"Frutiee is an amazing place to buy a healthy foods. There are they have so many fruit flavoured drinks and cakes. That  ia so delicious. Even their online services are so good."
+        },{
+            "id":7,
+            "name":"Althaf",
+            "star":"stars",
+            "review":"Frutiee is an amazing place to buy a healthy foods. There are they have so many fruit flavoured drinks and cakes. That  ia so delicious. Even their online services are so good."
+        },{
+            "id":8,
+            "name":"Sofia thomas",
+            "star":"stars",
+            "review":"Frutiee is an amazing place to buy a healthy foods. There are they have so many fruit flavoured drinks and cakes. That  ia so delicious. Even their online services are so good."
+        }]

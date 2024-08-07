@@ -5,6 +5,7 @@ import {FaTwitter} from 'react-icons/fa'
 import {FaInstagram} from 'react-icons/fa'
 import {FaSnapchat} from 'react-icons/fa'
 import {FaEnvelope} from 'react-icons/fa'
+import {Link} from 'react-router-dom'
 
 const Footer = () => {
   return (
@@ -29,7 +30,7 @@ const Footer = () => {
                     </div>
                     <div className='coulmn-1'>
                         <ul>
-                            <li>Services</li>
+                            <li><Link to={"/Services"} className='services-btn'>Services</Link></li>
                             <li>Privacy & Policy</li>
                             <li>Other</li>
                         </ul>

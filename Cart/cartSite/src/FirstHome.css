@@ -51,7 +51,7 @@
 
 .check-out-btn{
     padding: 10px;
-    border: 1px solid rgb(245, 144, 11);
+    border: 1px solid rgb(64, 37, 2);
     font-size: 14px;
     font-weight: 450;
     font-family: 'DM Serif Display';
@@ -60,6 +60,7 @@
     color: rgb(117, 68, 5);
     transition: 0.4s all linear;
     display: flex;
+    margin-left: 20px;
 }
 .check-out-btn:hover{
     color: rgba(29, 16, 1, 0.8);    

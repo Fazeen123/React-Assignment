@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.content-containor{
+    width: 70vw;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+button{
+    width: 100px;
+    height: 28px;
+    font-size: 15px;
+    padding: 3px;
+    margin: 20px;
+}
+.name-containor , .personal-2 , .personal-3, .personal-4, .academic-1,.acdemic-2,.job-section{
+    
+    display: flex;
+}
+h3{
+    padding: 10px 20px ;
+}
+.interest-text{
+    margin-left: 105px;
+}
+.confirmation-containor{
+    width: 70vw;
+    height: 25px;
+    margin-left:20px ;
+    display: flex;
+    align-items: center;
+}
+
+.confirmation-containor>.confirm-cb{
+    margin-left: 10px;
+}

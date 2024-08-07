@@ -6,6 +6,7 @@ import Footer from './Footer'
 import FirstHome from './FirstHome'
 import ThirdHome from './ThirdHome'
 import IntroHome from './IntroHome'
+import FourthHome from './FourthHome'
 
 const Home = () => {
   return (<>
@@ -15,6 +16,7 @@ const Home = () => {
       <SecondHome/>
       <HomeStructure/>
       <ThirdHome/>
+      <FourthHome/>
       <Footer/>
       
     </div>

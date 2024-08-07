@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.MAIN-CONTAINOR{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+    
+}
+.MAIN-CONTAINOR>h1{
+    background-color: rgb(203, 251, 251);
+    padding: 10px;
+    text-align: center;
+
+}

@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.qualification-list{
+    height: 28px;
+    width: 350px;
+}
+.qualification-list-containor{
+    display: flex;
+    margin-bottom: 10px;
+}
+.remove-btn{
+    height: 28px;
+    width: 30px;
+    margin: 0px;
+}
+.add-btn{
+    height: 28px;
+    width: 30px;
+    margin: 0px;
+}

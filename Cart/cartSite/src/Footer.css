@@ -45,7 +45,7 @@
     
 }
 .social-icons:hover{
-    color: rgba(248, 232, 213,1);    
+    color: rgb(250, 229, 203);    
 }
 .coulmn-1 ul{
     
@@ -64,4 +64,12 @@
 .coulmn-1 ul li:hover{
     color: rgba(248, 232, 213,1);
 }
-
+.services-btn{
+    text-decoration: none;
+    color: rgba(248, 232, 213,0.6);
+    transition: 0.4s all linear;
+}
+.services-btn:hover{
+    
+    color: rgba(248, 232, 213,1);
+}
