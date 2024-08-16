@@ -24,7 +24,7 @@ const Footer = () => {
                     <div className='coulmn-1'>
                         <ul>
                             <li>Career</li>
-                            <li>Contect</li>
+                            <li><Link to={"/About us"} className='services-btn'>Contec</Link>t</li>
                             <li>FAQ</li>
                         </ul>
                     </div>
